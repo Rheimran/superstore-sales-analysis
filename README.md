@@ -3,9 +3,9 @@
 ## Project Overview
 
 This project analyzes the sales performance of a retail superstore dataset to identify trends, top-performing regions, and key business insights.
-The analysis was conducted using Python in a Jupyter Notebook.
+The analysis was conducted using Python in a Visual Stodio Code.
 
-The goal of this project is to demonstrate data analysis skills including data cleaning, exploratory data analysis (EDA), and visualization.
+The goal of this project is to demonstrate data analysis skills including data cleaning, exploratory data analysis (EDA), visualization, and Business insight.
 
 ---
 
@@ -13,8 +13,8 @@ The goal of this project is to demonstrate data analysis skills including data c
 
 The dataset contains information about:
 
-* Orders
 * Sales
+* Discount
 * Profit
 * Customer segments
 * Regions and cities
@@ -27,7 +27,7 @@ The dataset contains information about:
 * Python
 * Pandas
 * Matplotlib
-* Jupyter Notebook
+* VS Code
 
 ---
 
@@ -38,7 +38,7 @@ Some of the analysis performed in this project includes:
 * Sales by Region
 * Profit Margin by Ship Mode
 * Top 10 Cities by Sales
-* Sales by Category and Sub-Category
+* Analysing Discount that causes loss
 * Customer Segment Analysis
 
 ---
@@ -61,4 +61,4 @@ Some of the analysis performed in this project includes:
 ## Author
 
 **Rheimran Habib**
-Aspiring Data Analyst | Python • Excel • Power BI
+Aspiring Data Analyst | Python • Excel • Power BI • MySQL
