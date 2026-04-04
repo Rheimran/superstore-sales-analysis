@@ -60,5 +60,5 @@ Some of the analysis performed in this project includes:
 
 ## Author
 
-**Rheimran Habib**
+*Md. Rakibul Haque Eimran**
 Aspiring Data Analyst | Python • Excel • Power BI • MySQL
